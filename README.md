@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-repositorio
+# primeiro-repositorio treino
 Desafio de projeto sobre GIT/github
